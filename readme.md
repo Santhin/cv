@@ -8,9 +8,7 @@ _Junior Python Developer/Data Scientist based in Warsaw, Poland_ <br>
 ## About position?
 
 Junior Python Developer with over 1 year experience. Curious about expanding knowledge in the field.
-A quick learner in various situations, able to work on my own and as a team member. Seeking a challenging position where my skills can be effectively utilized while increasing the bottom line profits.
-
-
+A quick learner in various situations, able to work on my own and as a team member. Seeking a challenging position with an opportunity for growth and career advancement as an achievement.
 ## My stack:
  - Languages: Python
  - Clouds: Google Cloud
@@ -46,7 +44,7 @@ A quick learner in various situations, able to work on my own and as a team memb
 
 ## 📋 Projects
 
-**Analytical project (engineering thesis)** _(August 2020 - March 2021)_ <br>
+**Analytical project (engineering thesis)** @ [AirPollution](https://github.com/Santhin/air-pollution) _(August 2020 - March 2021)_ <br>
 - Merging archival air pollution data from GIOŚ with existing database Smogoliczka, which contains actual measurements.<br>
 - Mapping each station with meteorological data from existing database Synop using Dask, Coiled and Pandas.<br>
 - Data cleaning and preprocessing.<br>
@@ -55,7 +53,7 @@ A quick learner in various situations, able to work on my own and as a team memb
 **_Technologies used:_** Python (Dask, Pandas, Plotly), Coiled.
 <br><br>
 
-**Academic research project** _(January 2021)_ <br>
+**Academic research project** @ [RealEstate](https://github.com/Santhin/real-estate) _(January 2021)_ <br>
 - Scrapping data using Scrapy, storing data in MongoDB and Heroku for deployment.<br>
 - Data cleaning and preprocessing with Pandas and Spacy Morfeusz.<br>
 - Data visualizations with Plotly and matplotlib.<br>
