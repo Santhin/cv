@@ -44,6 +44,25 @@ A quick learner in various situations, able to work on my own and as a team memb
 **_Technologies used:_** Python (Selenium, Scrapy, BS4, Flask, Spacy), Docker, Prodigy.
 <br><br>
 
+## 📋 Projects
+
+**Analytical project (engineering thesis)** _(August 2020 - March 2021)_ <br>
+- Merging archival air pollution data from GIOŚ with existing database Smogoliczka, which contains actual measurements.<br>
+- Mapping each station with meteorological data from existing database Synop using Dask, Coiled and Pandas.<br>
+- Data cleaning and preprocessing.<br>
+- Explanatory data analysis using Plotly.<br>
+- Time series prediction with Optuna for hyperparameter searching and Xgboost.<br>
+**_Technologies used:_** Python (Dask, Pandas, Plotly), Coiled.
+<br><br>
+
+**Academic research project** _(January 2021)_ <br>
+- Scrapping data using Scrapy, storing data in MongoDB and Heroku for deployment.<br>
+- Data cleaning and preprocessing with Pandas and Spacy Morfeusz.<br>
+- Data visualizations with Plotly and matplotlib.<br>
+- Model learning with scikit-learn and Floydhub.<br>
+**_Technologies used:_** Python (Spacy, Pandas, Plotly, matplotlib, Scrapy, scikit-learn), MongoDB, Heroku.
+<br><br>
+
 ## 🗞 Activity
 
 _Order of Devs_<br>
