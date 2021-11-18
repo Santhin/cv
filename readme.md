@@ -20,7 +20,7 @@ A quick learner in various situations, able to work on my own and as a team memb
  - DS Topics: EDA, ML, NLP
 
 ## 👩🏼‍💻 Technical Experience
-**Junior Data Engineer** @ [EasyPartnering](https://easypartnering.pl/) _(June 2021 - Present)_ <br>
+**Junior Python Developer** @ [EasyPartnering](https://easypartnering.pl/) _(June 2021 - Present)_ <br>
 - Responsible for data crawling from multiple sources using Scrapy and data mining using seo tools.<br>
 - Responsible for finding public API's and merging with obtained data.<br>
 - Responsible for planning and implementation of the serverless architecture on Google Cloud with cloud run, cloud function, cloud build, cloud workflow and cloud tasks.<br>
@@ -47,7 +47,7 @@ A quick learner in various situations, able to work on my own and as a team memb
 ## 🗞 Activity
 
 _Order of Devs_<br>
-Mentoring group with active community aimed at expanding knowledge in DL, ML, Clouds, Architecure and Programming<br>
+Mentoring group with active community aimed at expanding knowledge in DL, ML, Clouds, Architecure and Programming.<br>
 
 _The Python Workshops! 2020/2021_<br>
 A series of meetings aimed at expanding practical knowledge in python led by Dr.Michał Korzycki, lecturers at the Warsaw School of Economics.<br>
