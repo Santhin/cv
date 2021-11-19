@@ -50,7 +50,7 @@ A quick learner in various situations, able to work on my own and as a team memb
 - Data cleaning and preprocessing.<br>
 - Explanatory data analysis using Plotly.<br>
 - Time series prediction with Optuna for hyperparameter searching and Xgboost.<br>
-**_Technologies used:_** Python (Dask, Pandas, Plotly), Coiled.
+**_Technologies used:_** Python (Dask, Pandas, Plotly, Xgboost, Optuna), Coiled.
 <br><br>
 
 **Academic research project** @ [RealEstate](https://github.com/Santhin/real-estate) _(January 2021)_ <br>
