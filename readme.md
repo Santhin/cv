@@ -1,18 +1,18 @@
 # Piotr (Peter) Sierkin
 
-_Junior Python Developer/Data Scientist based in Warsaw, Poland_ <br>
+_Python Developer/Data Engineer based in Warsaw, Poland_ <br>
 
 [Email](mailto:psierkin@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/piotr-sierkin/) / [GitHub](https://github.com/Santhin/)
 
 
 ## About position?
 
-Junior Python Developer with over 1 year experience. Curious about expanding knowledge in the field.
+Python Developer curious about expanding knowledge in the field.
 A quick learner in various situations, able to work on my own and as a team member. Seeking a challenging position with an opportunity for growth and career advancement as an achievement.
 ## My stack:
- - Languages: Python
- - Clouds: Google Cloud
- - Devops: Docker, Github  Actions,
+ - Languages: Python, TS
+ - Clouds: GCP, AWS
+ - Devops: Docker, Terraform,
  - Software Topics: Event Storming, Desing Patterns, Cloud Computing, Algorithms
  - Architecture Topics: Microservices
  - DS Topics: EDA, ML, NLP
@@ -74,8 +74,10 @@ A student research group of the Warsaw School of Computer Science dealing with t
    
 ## 🏆 Accomplishments
 
-**Rector's scholarship for the best students** @ [WWSI](https://wwsi.edu.pl/) _(2018/2019, 2020/2021)_<br><br>
-
+**Rector's scholarship for the best students** @ [WWSI](https://wwsi.edu.pl/) _(2018/2019, 2020/2021)_<br>
+**The Infrastructure Developer's Guide to Terraform: AWS Edition** @ [Cloud Academy, Inc.](https://certificates.cloudacademy.com/01e073f3cc6c081426322ea2a2ec1d4ce82257f5.pdf)
+<br>
+**Becoming an AWS Cloud Architect — Starter** @ [Cloud Academy, Inc.](https://certificates.cloudacademy.com/82b8314b3111b6dbf168cb1100efdd2da251e71f.pdf)
 ## 💬 Languages
 
 **Polish**: Native <br>
