@@ -11,9 +11,9 @@ A quick learner in various situations, able to work on my own and as a team memb
 
 ## My stack:
 
-- Languages: Python, TS
+- Languages: Python
 - Clouds: GCP, AWS
-- Devops: Docker, Terraform,
+- Devops: Docker
 - Software Topics: Event Storming, Desing Patterns, Cloud Computing, Algorithms
 - Architecture Topics: Microservices
 - DS Topics: EDA, ML, NLP
@@ -81,8 +81,11 @@ A student research group of the Warsaw School of Computer Science dealing with t
 
 ## 🏆 Accomplishments
 
-**Rector's scholarship for the best students** @ [WWSI](https://wwsi.edu.pl/) _(2018/2019, 2020/2021)_<br>
+**Rector's scholarship for the best students** @ [WWSI](https://wwsi.edu.pl/) _(2018/2019, 2020/2021)_
+<br>
 **The Infrastructure Developer's Guide to Terraform: AWS Edition** @ [Cloud Academy, Inc.](https://certificates.cloudacademy.com/01e073f3cc6c081426322ea2a2ec1d4ce82257f5.pdf)
+<br>
+**Introduction to Kubernetes** @ [Cloud Academy, Inc.](https://certificates.cloudacademy.com/e9be009a0786f60b6b2ac369394f2df4ab87311b.pdf)
 <br>
 **Becoming an AWS Cloud Architect — Starter** @ [Cloud Academy, Inc.](https://certificates.cloudacademy.com/82b8314b3111b6dbf168cb1100efdd2da251e71f.pdf)
 <br>
