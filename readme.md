@@ -13,7 +13,7 @@ A quick learner in various situations, able to work on my own and as a team memb
 
 - Languages: Python
 - Clouds: GCP, AWS
-- Containers: Kuberenetes, Docker
+- Containers: Kubernetes, Docker
 - Automation: CICD (Gitlab/Github), FluxCD, Terraform, Terragrunt
 
 ## 👩🏼‍💻 Technical Experience
