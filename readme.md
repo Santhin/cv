@@ -1,13 +1,12 @@
 # Piotr (Peter) Sierkin
 
-_Software Engineer based in Warsaw, Poland_ <br>
+_Data Platform Engineer based in Warsaw, Poland_ <br>
 
 [Email](mailto:psierkin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/piotr-sierkin/) / [GitHub](https://github.com/Santhin/)
 
 ## About position?
 
-Software Engineer curious about expanding knowledge in the field.
-A quick learner in various situations, able to work on my own and as a team member. Seeking a challenging position with an opportunity for growth and career advancement as an achievement.
+Data Platform Engineer curious about expanding knowledge in the field. A quick learner in various situations, able to work on my own and as a team member. Seeking a challenging position with an opportunity for growth and career advancement as an achievement.
 
 ## My stack:
 
@@ -18,7 +17,7 @@ A quick learner in various situations, able to work on my own and as a team memb
 
 ## 👩🏼‍💻 Technical Experience
 
-**Software Engineer** @ [GetInData](https://getindata.com/) _(May 2022 - Present)_ <br>
+**Data Platform Engineer** @ [GetInData](https://getindata.com/) _(May 2022 - Present)_ <br>
 
   *R&D Team*
   - Research & validation of data quality, observability & discovery solutions in (R&D team)
